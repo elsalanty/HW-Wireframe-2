@@ -1,0 +1,54 @@
+#wrapper {
+width: 960px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    background-color: #777777;
+    width: 960px;
+    font-size: 18px;
+}
+
+.contentContainer {
+    overflow: auto;
+}
+#articleContainer {
+    width: 66%;
+    float: left
+}
+
+header {
+    background: #ebebeb;
+    text-align: center;
+    margin: 0px;
+}
+
+nav {
+
+    background: #ebebeb;
+}
+
+
+section {
+    background: #ebebeb;
+    width: 495px;
+}
+
+article {
+    color: #ebebeb;
+    background: #777777;
+    overflow: auto;
+}
+
+aside {
+    width: 33%;
+    background: #ebebeb;
+    float: right;
+}
+
+
+footer {
+    background: #ebebeb;
+    text-align: center
+}
